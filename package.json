@@ -30,10 +30,13 @@
     "@prisma/client": "^7.10.0",
     "@types/pg": "^8.23.1",
     "ai": "^6.0.300",
+    "clsx": "^2.1.1",
     "dotenv": "^18.0.5",
     "pg": "^8.23.1",
     "reflect-metadata": "^0.2.2",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "tailwind-merge": "^3.7.0",
+    "unpdf": "^1.7.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^12.0.0",
